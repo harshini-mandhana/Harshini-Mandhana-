@@ -3,7 +3,6 @@ Hi, I'm Harshini 👋
 ECE Student | Aspiring VLSI Verification Engineer
 
 🌱 Currently learning:
-- C Programming
 - Digital Electronics
 - VLSI Basics
 
